@@ -5,5 +5,6 @@ Use Swift and cocopad<br>
 1. Import AFNetworking <br>
 2. Use Rest API to get jason file from :api.themoviedb.org <br>
 3. Use Table view to populate that movies <br>
+![Alt text](https://github.com/shirlymanor/movieViewer/blob/master/Movies.png "Movies")
 
 
